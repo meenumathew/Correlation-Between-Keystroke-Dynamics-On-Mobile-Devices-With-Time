@@ -95,19 +95,19 @@ After analysing the data gathered, some users were removed because they logged t
 We then analysed the average number of keystrokes triggered by each user in each month and Figure 5 shows the  average monthly user activity with more data gathered in June and July than in February or March. This depicts the activities  of 12 users as users 3, 4 and 10 were removed. Users 2, 3 and 7 were available for all four months of logging. The other users might have enabled their private mode or switched to other keyboards during some of this logging period leading to non-entry of their keystroke data. The different colours represent different users and the area of each coloured bubble in the graph is proportional to the amount of keystroke data gathered by that participant in that month. 
 
 <p align="center">
-<img align="center" alt="Figure 5. Average monthly user activity." src="images/fig5_total_events_over_the_months.JPG"><br/>
+<img align="center" alt="Figure 5. Average monthly user activity." src="images/fig5_total_events_over_the_months.jpg"><br/>
 <em><b>Figure 5. Average monthly user activity.</b></em>
 </p>
 
 
 Figure 6. and Figure 7. portray daily user activity in the February-March/2021 and June-July/2021 periods respectively. The green colour bubbles represent weekdays and purple indicates weekends and the size of bubble is proportional to the number of keystrokes triggered by each user. Of the participants, user 2, user 3, user 7, user 8, user 11 and user 15 have contributed much logging with their daily activity. On examining the plot, it is evident that weekend activity is greater compared to weekdays for all  participants. Also, Sundays have recorded more activity than Saturdays. A few users were not regular across all four month yet, on an average, there is a consistent amount of data logging  done by the participants.
 <p align="center">
-<img align="center" alt="Figure 6. Daily users keyboard activity logged during February- March 2021." src="images/fig6_feb_march.JPG"><br/>
+<img align="center" alt="Figure 6. Daily users keyboard activity logged during February- March 2021." src="images/fig6_feb_march.jpg"><br/>
 <em><b>Figure 6. Daily users keyboard activity logged during February- March 2021.</b></em>
 </p>
 
 <p align="center">
-<img align="center" alt="Figure 7. Daily users keyboard activity logged during June- July 2021." src="images/fig7_june_july.JPG"><br/>
+<img align="center" alt="Figure 7. Daily users keyboard activity logged during June- July 2021." src="images/fig7_june_july.jpg"><br/>
 <em><b>Figure 7. Daily users keyboard activity logged during June- July 2021.</b></em>
 </p>
 
