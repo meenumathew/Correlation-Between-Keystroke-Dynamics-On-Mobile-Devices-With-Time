@@ -177,8 +177,33 @@ We thank Florian Bemmann and Daniel Buschek for use of the Language Logger appli
 
 #
 
-- [1] Circadian rythum nigms.nih.gov.2020. open-i. [online] available at:https://www.nigms.nih.gov/education/fact-sheets/pages/circadianrhythms.aspx.
-- [2] The official website of the nobel prize 2017. the nobel prize in physiology or medicine 2017 open-i. [online] available at: https://www.nobelprize.org/nobelprizes/medicine/laureates/2017/press.html.
+- [1] Circadian rythum nigms.nih.gov.2020. open-i. [online] available at:https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms-spanish.aspx
+- [2] The official website of the nobel prize 2017. the nobel prize in physiology or medicine 2017 open-i. [online] available at: https://www.nobelprize.org/nobelprizes/medicine/laureates/2017/press.html
 - [3] Abd Manan Ahmad and Nik Nailah Abdullah. User authentication via neural network. In Proceedings of the 9th International Conference on Artificial Intelligence: Methodology, Systems, and Applications, AIMSA ’00, page 310–320, Berlin, Heidelberg, 2000. Springer-Verlag.
 - [4] Md Liakat Ali, John V. Monaco, Charles C. Tappert, and Meikang Qiu.Keystroke biometric systems for user authentication. Journal of Signal Processing Systems, 86(2-3):175 190, March 2016.
 - [5] Florian Bemmann and Daniel Buschek. Languagelogger: A mobile keyboard application for studying language use in everyday text communication in the wild. Proc. ACM Hum. Comput. Interact., 4(EICS), June 2020.
+- [6] Francesco Bergadano, Daniele Gunetti, and Claudia Picardi. User authentication through keystroke dynamics. ACM Trans. Inf. Syst. Secur., 5(4):367–397, November 2002.
+- [7] Daniel Buschek, Benjamin Bisinger, and Florian Alt. Researchime: A mobile keyboard application for studying free typing behaviour in the wild. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 2018.
+- [8] Ting-Yi Chang. Dynamically generate a long-lived private key based on password keystroke features and neural network. Information Sciences,211:36–47, November 2012.
+- [9] Alaa Darabseh and Akbar Siami Namin. Keystroke active authentications based on most frequently used words. In Proceedings of the 2015 ACM International Workshop on International Workshop on Security and Privacy Analytics. ACM, March 2015.
+- [10] Rachel S. Edgar, Edward W. Green, Yuwei Zhao, Gerben van Ooijen, Maria Olmedo, Ximing Qin, Yao Xu, Min Pan, Utham K. Valekunja, Kevin A. Feeney, Elizabeth S. Maywood, Michael H. Hastings, Nitin S.Baliga, Martha Merrow, Andrew J. Millar, Carl H. Johnson, Charalambos P. Kyriacou, John S. O’Neill, and Akhilesh B. Reddy. Peroxiredoxins are conserved markers of circadian rhythms. Nature, 485(7399):459–464, May 2012.
+- [11] R. Stockton Gaines, William Lisowski, S. James Press, and Norman Shapiro. Authentication by Keystroke Timing: Some Preliminary Results. RAND Corporation, Santa Monica, CA, 1980.
+- [12] Daniele Gunetti and Claudia Picardi. Keystroke analysis of free text. ACM Trans. Inf. Syst. Secur., 8(3):312–347, August 2005.
+- [13] H. Huang, B. Cao, P. S. Yu, C. Wang, and A. D. Leow. dpmood: Exploiting local and periodic typing dynamics for personalized mood prediction. In 2018 IEEE International Conference on Data Mining (ICDM), pages 157–166, 2018.
+- [14] Rick Joyce and Gopal Gupta. Identity authentication based on keystroke latencies. Commun. ACM, 33(2):168–176, February 1990.
+- [15] KH Lam, KA Meijer, FC Loonstra, EME Coerver, J Twose, E Redeman, B Moraal, F Barkhof, V de Groot, BMJ Uitdehaag, and J Killestein. Real-world keystroke dynamics are a potentially valid biomarker for clinical disability in multiple sclerosis. Multiple Sclerosis Journal, page 135245852096879, November 2020.
+- [16] John Leggett and Glen Williams. Verifying identity via keystroke characterstics. International Journal of Man-Machine Studies, 28(1):67–76, 1988.
+- [17] Marielle Leijten, Eric Van Horenbeeck, and Luuk Van Waes. ¨ Analysing Keystroke Logging Data from a Linguistic Perspective, pages 71–95. BRILL, 01 2019.
+- [18] Marielle Leijten and Luuk Van Waes. Keystroke logging in writing ¨research: Using inputlog to analyze and visualize writing processes. Written Communication, 30(3):358–392, 2013.
+- [19] Robert Moskovitch, Clint Feher, Arik Messerman, Niklas Kirschnick, Tarik Mustafic, Ahmet Camtepe, Bernhard Lohlein, Ulrich Heister, ¨Sebastian Moller, Lior Rokach, and Yuval Elovici. Identity theft, ¨computers and behavioral biometrics. ISI’09, page 155–160. IEEE Press,2009.
+- [20] Clarke N.L, S.M. Furnell, B. Lines, and P.L. Reynolds. Subscriber authentication for mobile phones using keystroke dynamics. In Proceedings of the Third International Network Conference (INC 2002), page 347–355, 2002.
+- [21] M. S. Obaidat and B. Sadoun. Verification of computer users using keystroke dynamics. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 27(2):261–269, 1997.
+- [22] S. O’Dea. Forecast number of mobile users worldwide 2020-2024. 2020.
+- [23] Sharon Parmet. App developed at UIC to track mood, predict bipolar
+disorder episodes. March 2018.
+- [24] Tomer Shimshon, Robert Moskovitch, Lior Rokach, and Yuval Elovici. Clustering di-graphs for continuously verifying users according to their typing patterns. In 2010 IEEE 26-th Convention of Electrical and Electronics Engineers in Israel, pages 000445–000449, 2010.
+- [25] Alan F. Smeaton, Naveen Garaga Krishnamurthy, and Amruth Hebba - suru Suryanarayana. Keystroke dynamics as part of lifelogging. In Jakub Lokoc, Tom ˇ a´s Skopal, Klaus Schoeffmann, Vasileios Mezaris, Xirong ˇLi, Stefanos Vrochidis, and Ioannis Patras, editors, MultiMedia Model-ing, pages 183–195, Cham, 2021. Springer International Publishing.
+- [26] Yoshihiko Suhara, Yinzhan Xu, and Alex ’Sandy’ Pentland. Deep-mood: Forecasting depressed mood based on self-reported histories via recurrent neural networks. In Proceedings of the 26th International Conference on World Wide Web, WWW ’17, page 715–724, Republic and Canton of Geneva, CHE, 2017. International World Wide Web Conferences Steering Committee.
+- [27] Pin Shen Teh, Andrew Teoh, and Shigang Yue. A survey of keystroke dynamics biometrics. The Scientific World Journal, 2013:408280, 112013.
+- [28] J. Twose, G. Licitra, H. McConchie, K. H. Lam, and J. Killestein. Early-warning signals for disease activity in patients diagnosed with multiple sclerosis based on keystroke dynamics. Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(11):113133, November 2020.
+- [29] Ying Yin, Tom Yu Ouyang, Kurt Partridge, and Shumin Zhai. Making touchscreen keyboards adaptive to keys, hand postures, and individuals. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, April 2013.
