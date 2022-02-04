@@ -99,7 +99,6 @@ We then analysed the average number of keystrokes triggered by each user in each
 <em><b>Figure 5. Average monthly user activity.</b></em>
 </p>
 
-
 Figure 6. and Figure 7. portray daily user activity in the February-March/2021 and June-July/2021 periods respectively. The green colour bubbles represent weekdays and purple indicates weekends and the size of bubble is proportional to the number of keystrokes triggered by each user. Of the participants, user 2, user 3, user 7, user 8, user 11 and user 15 have contributed much logging with their daily activity. On examining the plot, it is evident that weekend activity is greater compared to weekdays for all  participants. Also, Sundays have recorded more activity than Saturdays. A few users were not regular across all four month yet, on an average, there is a consistent amount of data logging  done by the participants.
 <p align="center">
 <img align="center" alt="Figure 6. Daily users keyboard activity logged during February- March 2021." src="images/fig6_feb_march.jpg"><br/>
@@ -119,6 +118,7 @@ Figure 8. indicates date-wise  analysis of  user3's data. The figures display th
 <img align="center" alt="Figure 8. Single User Analysis of user3 by date - dwell time and flight time." src="images/fig8_singleuser_daily.jpg"><br/>
 <em><b>Figure 8. Single User Analysis of user3 by date - dwell time and flight time.</b></em>
 </p>
+
 The analysis of user3 in the month of February, March, June, and July is plotted in Figure 9. The range of dwell time is minimum in the month of March and maximum in July. Also, the average flight time is minimum in March and maximum in June.The range of the average dwell time is from 48- 78 ms and range of average flight time from 180-330 ms.
 
 <p align="center">
@@ -139,19 +139,18 @@ From Figure 11. it can be seen that average dwell time across users lies in a ra
 <em><b>Figure 11. Single User Analysis of user3 at Different Time Slots- Dwell Time and Flight Time.</b></em>
 </p>                                                                                                             
  
-These single user analysis has brought us to the conclusion that typing speed is correlated with different time slots in the day and this varies from morning to night, for user 3. Also, the month-wise analysis depicts that time of year exerts an influence on this user, the months of June and July being slower compared to the month of February and March.  
+These single user analysis has brought us to the conclusion that typing speed is correlated with different time slots in the day and this varies from morning to night, for user 3. Also, the month-wise analysis depicts that time of year exerts an influence on this user, the months of June and July being slower compared to the month of February and March.                                                                                                            
+ 
+Figure 12. depicts the analysis of multiple users in different time slots. The dwell times of all users shows quite similar pattern throughout the day and this can be seen by looking at the relative positions of the pink boxes across each of the 6 graphs, each graph in the figure representing a different time slot. The distribution of flight times shown as green boxes also show similarity across the 6 graphs, one graph per time slot but there are exceptions. During the evening time slot, changes occur with users in case of both dwell time and time of switching to the next keystroke (flight time). Variations are seen only with some users. The dinner and night time slots also shows variations but minimally. Overall, variations are minimal in case of dwell time and flight time.      
 
 <p align="center">
 <img align="center" alt="Figure 12. Multiple User Analysis in Different Time Slots: Dwell Time and Flight Time." src="images/fig12_multiple_user_diff_timeslot1.jpg"><br/>
 <em><b>Figure 12. Multiple User Analysis in Different Time Slots: Dwell Time and Flight Time.</b></em>
-</p>                                                                                                             
- 
-Figure 12. depicts the analysis of multiple users in different time slots. The dwell times of all users shows quite similar pattern throughout the day and this can be seen by looking at the relative positions of the pink boxes across each of the 6 graphs, each graph in the figure representing a different time slot. The distribution of flight times shown as green boxes also show similarity across the 6 graphs, one graph per time slot but there are exceptions. During the evening time slot, changes occur with users in case of both dwell time and time of switching to the next keystroke (flight time). Variations are seen only with some users. The dinner and night time slots also shows variations but minimally. Overall, variations are minimal in case of dwell time and flight time.      
+</p>   
+
+The set of 12 users were then analysed according to different time slots  from morning to night shown in Figure 13. for dwell time and flight time shows variations existed across users. In many cases, some users had quite similar dwell and flight times at different time slots, for example users 2, 3, 8, 11 and 15 were fairly flat lined. Striking differences in values for different time slots existed for some other users. Yet, arriving a conclusion or making and inference based on the analysis of this characteristics alone may be a premature step. 
 
 <p align="center">
 <img align="center" alt="Figure 13. Multiple User Analysis : 1 graph per user and up to 6 time slots per graph, showing dwell time and flight time." src="images/fig13_multiple_user_diff_timeslot2.jpg"><br/>
 <em><b>Figure 13. Multiple User Analysis : 1 graph per user and up to 6 time slots per graph, showing dwell time and flight time.</b></em>
 </p>  
-
-The set of 12 users were then analysed according to different time slots  from morning to night shown in Figure 13. for dwell time and flight time shows variations existed across users. In many cases, some users had quite similar dwell and flight times at different time slots, for example users 2, 3, 8, 11 and 15 were fairly flat lined. Striking differences in values for different time slots existed for some other users. Yet, arriving a conclusion or making and inference based on the analysis of this characteristics alone may be a premature step. 
-
