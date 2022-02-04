@@ -154,3 +154,31 @@ The set of 12 users were then analysed according to different time slots  from m
 <img align="center" alt="Figure 13. Multiple User Analysis : 1 graph per user and up to 6 time slots per graph, showing dwell time and flight time." src="images/fig13_multiple_user_diff_timeslot2.jpg"><br/>
 <em><b>Figure 13. Multiple User Analysis : 1 graph per user and up to 6 time slots per graph, showing dwell time and flight time.</b></em>
 </p>  
+
+The variations observed on the basis of time of day represent the level of interaction between activity and master clock which is based on the circadian rhythm which the body follows. The National Institute of General Medical Sciences(NIGMS), part of the US health department, in their research had already proven a correlation between changes of human
+activity with changes in this biological clock [1] [2].Figure 14 gives an understanding of this circadian rhythm cycle showing that signals from the environment can affect circadian rhythm [1]. The changes in keystroke timing information, slowing down as the day progresses and we get more tired, which is exhibited by many of the users in this study, can be explained by the link to the circadian rhythm.
+
+<p align="center">
+<img align="center" alt="Figure 14. ircadian rhythm cycle. Credit: WalaLight.com" src="images/fig13_multiple_user_diff_timeslot2.jpg"><br/>
+<em><b>Figure 14. ircadian rhythm cycle. Credit: WalaLight.com</b></em>
+</p>  
+
+#  CONCLUSIONS AND FUTURE SCOPE
+
+We have performed an analysis on the relationship between keystroke dynamics with time of day based on multiple users at different time slots.It is evident that the circadian rhythm of an individual does influence overall activities and speed typing on a cell phone is no exception. With changes in the rhythm comes changes in the dwell time and flight time associated with the keystrokes. Individual behaviour is deeply associated with circadian rhythm and hence keystrokes are undoubtedly linked to it.
+
+The level of alertness and coordination is known to vary as time passes from day to night. These were portrayed by the keystroke data of many of our users but not all of them. This is because there will be confounding factors that will increase alertness and thus typing speed, throughout the day. Caffeine or other stimulants, excitement because of what may be happening or even a sugar rush from a meal will all contribute to local or short term increases in alertness though overall, as our figures aggregated across a set of users and over an extended period of time show, the trend is towards slowing down as the day progresses.
+
+There are two possibilities for future work regarding the correlation between keystroke and the time taken. One is to capture user's alertness and excitement levels throughout the day, as it can vary from morning to night, using wearable devices and then see if alertness varies with keystroke dynamics on smartphones. The second possibility is to capture keystroke timing information for users over an extended period, for at least more than a year, and then we can see if seasonal factors such as changes from Winter to Spring, Spring to Summer, etc., influence typing speed.
+
+# ACKNOWLEDGEMENTS
+
+We thank Florian Bemmann and Daniel Buschek for use of the Language Logger application and specially thank Florian for his invaluable technical support throughout the implementation phase of apk. We also thank Tom Doyle in Dublin City University for server side support and Joy Joseph for apk generation. We acknowledge all  15 participants who were willing to give their data for this study.
+
+#
+
+- [1] Circadian rythum nigms.nih.gov.2020. open-i. [online] available at:https://www.nigms.nih.gov/education/fact-sheets/pages/circadianrhythms.aspx.
+- [2] The official website of the nobel prize 2017. the nobel prize in physiology or medicine 2017 open-i. [online] available at: https://www.nobelprize.org/nobelprizes/medicine/laureates/2017/press.html.
+- [3] Abd Manan Ahmad and Nik Nailah Abdullah. User authentication via neural network. In Proceedings of the 9th International Conference on Artificial Intelligence: Methodology, Systems, and Applications, AIMSA ’00, page 310–320, Berlin, Heidelberg, 2000. Springer-Verlag.
+- [4] Md Liakat Ali, John V. Monaco, Charles C. Tappert, and Meikang Qiu.Keystroke biometric systems for user authentication. Journal of Signal Processing Systems, 86(2-3):175 190, March 2016.
+- [5] Florian Bemmann and Daniel Buschek. Languagelogger: A mobile keyboard application for studying language use in everyday text communication in the wild. Proc. ACM Hum. Comput. Interact., 4(EICS), June 2020.
