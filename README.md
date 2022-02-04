@@ -173,9 +173,9 @@ There are two possibilities for future work regarding the correlation between ke
 
 # ACKNOWLEDGEMENTS
 
-We thank Florian Bemmann and Daniel Buschek for use of the Language Logger application and specially thank Florian for his invaluable technical support throughout the implementation phase of apk. We also thank Tom Doyle in Dublin City University for server side support and Joy Joseph for apk generation. We acknowledge all  15 participants who were willing to give their data for this study.
+I would like to thank my supervisor Prof.Alan F Smeaton in Dublin City University for his support and encouragement during this research work.We thank Florian Bemmann and Daniel Buschek for use of the Language Logger application and specially thank Florian for his invaluable technical support throughout the implementation phase of apk. We also thank Tom Doyle in Dublin City University for server side support and Joy Joseph for apk generation. We acknowledge all  15 participants who were willing to give their data for this study.
 
-#
+# REFERENCES
 
 - [1] Circadian rythum nigms.nih.gov.2020. open-i. [online] available at:https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms-spanish.aspx
 - [2] The official website of the nobel prize 2017. the nobel prize in physiology or medicine 2017 open-i. [online] available at: https://www.nobelprize.org/prizes/medicine/2017/press-release/
