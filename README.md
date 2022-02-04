@@ -128,7 +128,7 @@ The analysis of user3 in the month of February, March, June, and July is plotted
   
 The analysis of user3 at different time slots for the dwell time and flight time has been summarised in Figure 10.  This depicts  changes in typing characteristics from the morning session to the nighttime session. In the mornings, the individual is energetic and so the mean dwell time and mean flight time is low with respect to other sessions. The mean dwell time is 70.377 ms and mean flight time is 284.345ms in the morning slot. In the noon and afternoon time slots, both dwell time and flight time have increased and the dwell time at noon and afternoon are somewhat alike. This could be due to the high alertness an individual exhibits during those time slots of the day. The flight times do not show this similarity as the mean flight times show striking differences. As the day passes, dwell times increase and so does  flight time and this is in line with human performance and alertness which decline and tiredness and fatigue creeps in by evening.Thus, maximum dwell time is shown at night and maximum flight time is also at this time. Thus we see that keystroke timing performance of this individual is related  to different time slots of a day.                                                                                                           
 <p align="center">
-<img align="center" alt="Figure 10. Overview of  user3  in different slots - dwell time and flight time." src="images/fig10_singleuser_difftimeslot_overview_table.jpg"><br/>
+<img align="center" alt="Figure 10. Overview of  user3  in different slots - dwell time and flight time." src="images/fig10_singleuser_difftimeslot_overview_table.JPG"><br/>
 <em><b>Figure 10. Overview of  user3  in different slots - dwell time and flight time.</b></em>
 </p>                                                                                                             
                                                                                                               
@@ -159,8 +159,8 @@ The variations observed on the basis of time of day represent the level of inter
 activity with changes in this biological clock [1] [2].Figure 14 gives an understanding of this circadian rhythm cycle showing that signals from the environment can affect circadian rhythm [1]. The changes in keystroke timing information, slowing down as the day progresses and we get more tired, which is exhibited by many of the users in this study, can be explained by the link to the circadian rhythm.
 
 <p align="center">
-<img align="center" alt="Figure 14. ircadian rhythm cycle. Credit: WalaLight.com" src="images/fig13_multiple_user_diff_timeslot2.jpg"><br/>
-<em><b>Figure 14. ircadian rhythm cycle. Credit: WalaLight.com</b></em>
+<img align="center" alt="Figure 14. Circadian rhythm cycle. Credit: WalaLight.com" src="images/fig14_daily-circadian-rhythm.png"><br/>
+<em><b>Figure 14. Circadian rhythm cycle. Credit: WalaLight.com</b></em>
 </p>  
 
 #  CONCLUSIONS AND FUTURE SCOPE
