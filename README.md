@@ -113,6 +113,45 @@ Figure 6. and Figure 7. portray daily user activity in the February-March/2021 a
 
 For a deeper analysis of this data, we took a single user (user3), the one with the greatest number of active days from among all participants, and that user's activity was analysed based on the averages and standard deviations of dwell times and flight times and plotted on daily, monthly and selected time slot bases.While calculating average and standard deviation of flight time and dwell time  we ignore those keystrokes with a value greater than or equal to one second based on the assumption that a continuous flow of typing happens in less than one second otherwise some pauses might have occurred between typing caused by, for example, the user stopping to think of what to type next or some external interruption.
 
+Figure 8. indicates date-wise  analysis of  user3's data. The figures display the correlation between the times taken for a user’s key press and key release (dwell time) as well as time taken for switching to the next key (flight time). This helps in understanding how far the user is consistent with their typing activity by analysing the times on different bases and whether variations have occurred. 
 
+<p align="center">
+<img align="center" alt="Figure 8. Single User Analysis of user3 by date - dwell time and flight time." src="images/fig8_singleuser_daily.jpg"><br/>
+<em><b>Figure 8. Single User Analysis of user3 by date - dwell time and flight time.</b></em>
+</p>
+The analysis of user3 in the month of February, March, June, and July is plotted in Figure 9. The range of dwell time is minimum in the month of March and maximum in July. Also, the average flight time is minimum in March and maximum in June.The range of the average dwell time is from 48- 78 ms and range of average flight time from 180-330 ms.
 
+<p align="center">
+<img align="center" alt="Figure 9.Single User Analysis of user3 by month - dwell time and flight time." src="images/fig9_singleuser_month.jpg><br/>
+<em><b>Figure 9.Single User Analysis of user3 by month - dwell time and flight time.</b></em>
+</p>
+  
+The analysis of user3 at different time slots for the dwell time and flight time has been summarised in Figure 10.  This depicts  changes in typing characteristics from the morning session to the nighttime session. In the mornings, the individual is energetic and so the mean dwell time and mean flight time is low with respect to other sessions. The mean dwell time is 70.377 ms and mean flight time is 284.345ms in the morning slot. In the noon and afternoon time slots, both dwell time and flight time have increased and the dwell time at noon and afternoon are somewhat alike. This could be due to the high alertness an individual exhibits during those time slots of the day. The flight times do not show this similarity as the mean flight times show striking differences. As the day passes, dwell times increase and so does  flight time and this is in line with human performance and alertness which decline and tiredness and fatigue creeps in by evening.Thus, maximum dwell time is shown at night and maximum flight time is also at this time. Thus we see that keystroke timing performance of this individual is related  to different time slots of a day.                                                                                                           
+<p align="center">
+<img align="center" alt="Figure 10. Overview of  user3  in different slots - dwell time and flight time." src="images/fig10_singleuser_difftimeslot_overview_table.jpg><br/>
+<em><b>Figure 10. Overview of  user3  in different slots - dwell time and flight time.</b></em>
+</p>                                                                                                             
+                                                                                                              
+From Figure 11. it can be seen that average dwell time across users lies in a range of 55 - 75 milliseconds and average flight time lies in the range of 250 – 400 milliseconds in the peak performance slots.  
+
+<p align="center">
+<img align="center" alt="Figure 11. Single User Analysis of user3 at Different Time Slots- Dwell Time and Flight Time." src="images/fig11_singleuser_timeslot.jpg><br/>
+<em><b>Figure 11. Single User Analysis of user3 at Different Time Slots- Dwell Time and Flight Time.</b></em>
+</p>                                                                                                             
+ 
+These single user analysis has brought us to the conclusion that typing speed is correlated with different time slots in the day and this varies from morning to night, for user 3. Also, the month-wise analysis depicts that time of year exerts an influence on this user, the months of June and July being slower compared to the month of February and March.  
+
+<p align="center">
+<img align="center" alt="Figure 12. Multiple User Analysis in Different Time Slots: Dwell Time and Flight Time." src="images/fig12_multiple_user_diff_timeslot1.jpg><br/>
+<em><b>Figure 12. Multiple User Analysis in Different Time Slots: Dwell Time and Flight Time.</b></em>
+</p>                                                                                                             
+ 
+Figure 12. depicts the analysis of multiple users in different time slots. The dwell times of all users shows quite similar pattern throughout the day and this can be seen by looking at the relative positions of the pink boxes across each of the 6 graphs, each graph in the figure representing a different time slot. The distribution of flight times shown as green boxes also show similarity across the 6 graphs, one graph per time slot but there are exceptions. During the evening time slot, changes occur with users in case of both dwell time and time of switching to the next keystroke (flight time). Variations are seen only with some users. The dinner and night time slots also shows variations but minimally. Overall, variations are minimal in case of dwell time and flight time.      
+
+<p align="center">
+<img align="center" alt="Figure 13. Multiple User Analysis : 1 graph per user and up to 6 time slots per graph, showing dwell time and flight time." src="images/fig13_multiple_user_diff_timeslot2.jpg><br/>
+<em><b>Figure 13. Multiple User Analysis : 1 graph per user and up to 6 time slots per graph, showing dwell time and flight time.</b></em>
+</p>  
+
+The set of 12 users were then analysed according to different time slots  from morning to night shown in Figure 13. for dwell time and flight time shows variations existed across users. In many cases, some users had quite similar dwell and flight times at different time slots, for example users 2, 3, 8, 11 and 15 were fairly flat lined. Striking differences in values for different time slots existed for some other users. Yet, arriving a conclusion or making and inference based on the analysis of this characteristics alone may be a premature step. 
 
